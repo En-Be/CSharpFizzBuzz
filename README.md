@@ -7,7 +7,7 @@
 ### How to run:
 
 - Clone the repo
-- Inside thee root directory of the project, run:
+- Inside the root directory of the project, run:
 
     ```
     dotnet run
